@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .target(name: "SmartechNudgesSPM", dependencies: []),
         .binaryTarget(name: "SmartechNudges",
-                      url: "https://github.com/NetcoreSolutions/SmartechNudgesSPM/releases/download/9.0.20/SmartechNudges.xcframework.zip",
-                     checksum: "90aef85dfa48c2a37679bb8c495a4e3b03db3dd49d8f48dd9bc37d6e889893d5")
+                      url: "https://github.com/NetcoreSolutions/SmartechNudgesSPM/releases/download/9.0.22/SmartechNudges.xcframework.zip",
+                     checksum: "d38307a83913fe3dc3a9d041e59c50d4af2cbee8b04eaa63b65e78f89291b5f3")
     ]
 )
